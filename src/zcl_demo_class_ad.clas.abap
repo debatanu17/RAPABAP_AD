@@ -19,5 +19,7 @@ CLASS zcl_demo_class_ad IMPLEMENTATION.
 
   " logic 1
   " logic 2
+
+" test pull from git to ADT
   ENDMETHOD.
 ENDCLASS.
